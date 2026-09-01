@@ -1,5 +1,6 @@
 import telebot
 from telebot import types
+import os
 
 # =========================================================
 # RB SENSI STORE BOT
@@ -10,7 +11,7 @@ from telebot import types
 # 4) Run: python bot.py
 # =========================================================
 
-TOKEN = "8952232562:AAELo2nZmSKMP2rm0fkk91lQLDM2ZXV6-Y4"
+TOKEN = TOKEN = os.getenv("TOKEN")
 ADMIN_ID = 6874112056
 QR_IMAGE = "qr.jpg"
 

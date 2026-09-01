@@ -10,7 +10,7 @@ from telebot import types
 # 4) Run: python bot.py
 # =========================================================
 
-TOKEN = "8952232562:AAHw2ALzIIwM5wPyEA_7aFSjqjll2jk4crc"
+TOKEN = "8952232562:AAELo2nZmSKMP2rm0fkk91lQLDM2ZXV6-Y4"
 ADMIN_ID = 6874112056
 QR_IMAGE = "qr.jpg"
 
